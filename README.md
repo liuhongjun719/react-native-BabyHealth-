@@ -15,8 +15,9 @@ React native 创建的仿 “宝宝健康” app，实现Listview展示、收藏
 
 
 ## Step
->* step1:  npm install
->* step2:  react-native start
+>* step1:  重启终端（以防之前打开过其他项目，会出现错误红屏界面）
+>* step2:  npm install
+>* step3:  nmp start
 
 
 ## Change
