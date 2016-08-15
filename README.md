@@ -12,8 +12,8 @@ React native 创建的仿 “宝宝健康” app，实现Listview展示、收藏
 
 
 ## Ready -- Install relative file
-npm i react -save
-npm i react-native -save
+*npm i react -save*
+*npm i react-native -save*
 npm i react-native-tab-navigator -save
 npm i react-native-vector-icons -save
 npm i react-redux -save
