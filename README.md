@@ -26,6 +26,12 @@ npm i react-native-swipe-list-view -save
 npm i react-native-root-toast -save
 
 
+>* Star
+>* Fork
+>* PR
+>* Issue
+
+
 
 
 ## Step
