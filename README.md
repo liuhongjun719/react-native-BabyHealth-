@@ -9,6 +9,7 @@ React native 创建的仿 “宝宝健康” app，实现Listview展示、收藏
 ![image](https://github.com/liuhongjun719/BabyHealth-/blob/master/screenshots/5.png)
 ![image](https://github.com/liuhongjun719/BabyHealth-/blob/master/screenshots/6.png)
 ![image](https://github.com/liuhongjun719/BabyHealth-/blob/master/screenshots/7.png)
+![image](https://github.com/liuhongjun719/BabyHealth-/blob/master/screenshots/8.png)
 
 
 
