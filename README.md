@@ -24,9 +24,7 @@ npm i react-native-store -save
 npm i react-native-swipeout -save
 npm i react-native-swipe-list-view -save
 npm i react-native-root-toast -save
-*iOS:* :rocket: Coming soon!
-*iOS:* :rocket: Coming soon!
-*iOS:* :rocket: Coming soon!
+
 
 
 
