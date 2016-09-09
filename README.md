@@ -30,3 +30,8 @@ defaultSelectedTitle: {<br>
 defaultSelectedIcon: { <br> 
       tintColor: 'rgb(245, 109, 132)',<br> 
 },<br> 
+
+## Relevant Projects of React Native
+
+* [`月子食谱App`](https://github.com/liuhongjun719/react-native-FoodMenu) 界面侧滑
+* [`贷贷助手`](https://github.com/liuhongjun719/react-native-DaidaiHelperNew) 比较完整的app项目
